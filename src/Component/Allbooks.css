@@ -1,0 +1,59 @@
+.group{
+  display: flex;
+}
+.card{
+  margin: 30px 30px 30px 40px;
+}
+.card-img-top{
+  height: 290px;
+  width: 287px;
+}
+.btn.btn-primary{
+  margin-right: 10px;
+}
+
+/* Add these styles to your existing Allbooks.css or create a new CSS file */
+
+/* Ratings Section Styles */
+.ratings-section {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 45%; /* Adjust the width as needed */
+  float: left;
+}
+
+.ratings-heading {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.rating-item {
+  margin-right: 5px;
+  font-size: 20px;
+  color: gold;
+  cursor: pointer;
+}
+
+/* Comments Section Styles */
+.comments-section {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 45%; /* Adjust the width as needed */
+  float: left;
+}
+
+.comments-heading {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.comment-textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}

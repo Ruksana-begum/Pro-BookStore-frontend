@@ -1,0 +1,25 @@
+/* profile.css */
+
+/* Style for the outer container */
+.profile-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the profile heading */
+.profile-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Style for individual profile details */
+.profile-details {
+  margin-bottom: 10px;
+}
+
+/* Add more styles as needed for other profile components */

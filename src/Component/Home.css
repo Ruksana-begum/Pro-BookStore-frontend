@@ -1,0 +1,33 @@
+.home{
+    display : flex;
+    background-color: darkblue;
+    /* background-image: url('https://images.pexels.com/photos/7130473/pexels-photo-7130473.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-size: cover;  */
+  }
+.homeimg img{
+    float:right;
+    max-width: 100%;
+    height: auto;
+    width: 50%;
+        background-image: url('C:\Users\HP\OneDrive\Pictures\bookstore\img1.webp');
+        background-size: cover; 
+      }
+ .info {
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    color:azure;
+  }
+   button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: hsl(158, 70%, 53%);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
